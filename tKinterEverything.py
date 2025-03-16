@@ -1,5 +1,5 @@
 '''
-pip install pyinstaller tkhtmlview
+pip install pyinstaller tkhtmlview ttkthemes
 '''
 import tkinter as tk
 from tkinter import ttk
